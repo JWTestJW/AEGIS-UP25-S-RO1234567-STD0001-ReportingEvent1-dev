@@ -16,7 +16,7 @@
     "R6": {
       "Package": "R6",
       "Version": "2.5.1",
-      "Source": "Repository",
+      "Source": "Local",
       "Repository": "RSPM",
       "Requirements": [
         "R"
@@ -652,7 +652,7 @@
     "utf8": {
       "Package": "utf8",
       "Version": "1.2.4",
-      "Source": "Repository",
+      "Source": "Local",
       "Repository": "RSPM",
       "Requirements": [
         "R"
@@ -736,7 +736,7 @@
     "yaml": {
       "Package": "yaml",
       "Version": "2.3.7",
-      "Source": "Repository",
+      "Source": "Local",
       "Repository": "RSPM",
       "Hash": "0d0056cc5383fbc240ccd0cb584bf436"
     }
