@@ -652,7 +652,7 @@
     "utf8": {
       "Package": "utf8",
       "Version": "1.2.4",
-      "Source": "Local",
+      "Source": "Repository",
       "Repository": "RSPM",
       "Requirements": [
         "R"
