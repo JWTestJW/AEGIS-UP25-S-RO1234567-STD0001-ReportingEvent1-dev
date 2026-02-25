@@ -736,7 +736,7 @@
     "yaml": {
       "Package": "yaml",
       "Version": "2.3.7",
-      "Source": "Local",
+      "Source": "Repository",
       "Repository": "RSPM",
       "Hash": "0d0056cc5383fbc240ccd0cb584bf436"
     }
