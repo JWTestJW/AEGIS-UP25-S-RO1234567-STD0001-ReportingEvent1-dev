@@ -167,7 +167,7 @@ jobs:
 
           # 2. テンプレート変数を置換
           DEST_PATH="$DEST_TEMPLATE"
-          DEST_PATH="${DEST_PATH//<MoleculeNo>/$MOLECULE_NO}"
+          DEST_PATH="${DEST_PATH//<Molecule>/$MOLECULE_NO}"
           DEST_PATH="${DEST_PATH//<StudyNo>/$STUDY_NO}"
           DEST_PATH="${DEST_PATH//<ReportingEventName>/$REPORTING_EVENT}"
 
@@ -284,3 +284,4 @@ jobs:
 
           # 7. ログファイルの削除
           rm "$LOG_FILE"
+
